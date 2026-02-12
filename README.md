@@ -9,7 +9,7 @@ Follow these steps to get your development environment set up:
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/your-username/positivus-landing.git](https://github.com/your-username/positivus-landing.git)
-cd positivus-landing
+cd bnv-task
 
 2. Install Dependencies
 npm install
