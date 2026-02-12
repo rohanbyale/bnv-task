@@ -22,7 +22,7 @@
 Follow these steps to get your development environment set up:
 
 ```bash
-git clone [https://github.com/your-username/positivus-landing.git](https://github.com/your-username/positivus-landing.git)
+git clone [https://github.com/your-username/bnv-task.git](https://github.com/rohanbyale/bnv-task.git)
 cd bnv-task
 
 2. Install Dependencies
