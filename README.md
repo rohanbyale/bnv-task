@@ -3,6 +3,18 @@
 [Insert your hosted link here, e.g., Vercel or Netlify]
 
 
+## 🛠️ Technical Powerhouse
+
+| Layer | Technology | Purpose |
+| :--- | :--- | :--- |
+| **Frontend** | **React.js** | Component-based UI logic. |
+| **Styling** | **Tailwind CSS** | Utility-first, responsive design system. |
+| **Icons** | **Lucide React** | Lightweight, accessible vector iconography. |
+| **Scrolling** | **Locomotive Scroll** | Implementation of luxury, smooth-scroll physics. |
+| **Routing** | **React Router** | Client-side page handling and deep-linking. |
+
+---
+
 ## 📥 Getting Started
 Follow these steps to get your development environment set up:
 
